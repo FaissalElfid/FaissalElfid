@@ -1,4 +1,6 @@
-## Hi there 👋, I'm Faissal ✨
+<div align="center"> 
+
+  ## Hi there 👋, I'm Faissal ✨
 
 ![](https://komarev.com/ghpvc/?username=lightgrey)
 
@@ -25,6 +27,7 @@ Here are some ideas to get you started:
 <a href="mailto:faissal.elfid@gmail.com/">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+</div>
 
 ### 👨‍💻 I have already worked with the following technologies !
 <details>
