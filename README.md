@@ -3,22 +3,8 @@
   ## Hi there 👋, I'm Faissal ✨
 
 ![](https://komarev.com/ghpvc/?username=lightgrey)
-
-  I am a final year software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below.
-
-<!--
-**FaissalElfid/FaissalElfid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Here are some ideas to get you started:
-
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
--->
+  
+  I am a final year software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FaissalElfid&langs_count=7&theme=react)
   
 ## 📫 How to reach me: 
