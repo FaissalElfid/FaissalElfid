@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=lightgrey)
 
-Je suis un étudiant en dernière année de génie logiciel qui aime l'innovation technologique. Bienvenue sur mon profil Github, j'espère qu'il vous plaira ! Si vous avez besoin d'informations supplémentaire a propos de mes projets public, vous pouvez me joindre par la section ci-dessous.
+  I am a final year software engineering student who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below.
 
 <!--
 **FaissalElfid/FaissalElfid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -26,9 +26,11 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 <details>
-  <summary>👨‍💻 I have already worked with the following technologies !</summary>
-<!-- ## 👨‍💻 I have already worked with the following technologies: -->
-### Languages
+  <summary> 
+    ## 👨‍💻 I have already worked with the following technologies !
+  </summary>
+
+  ### Languages
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
@@ -65,9 +67,14 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
 <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
-
-## 🌱 I’m currently learning Spring, Jakarta EE, Angular, AWS ...
-
 </details>
 
+<details>
+  <summary> 
+    ## 🌱 I'm currently ...
+  </summary>
+
+### 💻 I’m currently learning Spring, Jakarta EE, Angular, AWS ...
+
 ### 🔭 I’m currently working on a Spring, Angular and MongoDB project (and i'm planning to host it on AWS). 
+</details>
