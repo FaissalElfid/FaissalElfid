@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 <details>
   <summary> 
-    ## 👨‍💻 I have already worked with the following technologies !
+    <h3> 👨‍💻 I have already worked with the following technologies ! </h3>
   </summary>
 
   ### Languages
@@ -71,7 +71,7 @@ Here are some ideas to get you started:
 
 <details>
   <summary> 
-    ## 🌱 I'm currently ...
+    ## <h3>  🌱 I'm currently ... </h3> 
   </summary>
 
 ### 💻 I’m currently learning Spring, Jakarta EE, Angular, AWS ...
