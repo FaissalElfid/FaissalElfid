@@ -19,7 +19,7 @@
 </div>
 
 ### 👨‍💻 I have already worked with the following technologies !
-<details>
+<details open>
   <summary> 
     Languages
   </summary>
@@ -35,7 +35,7 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </details>
 
-<details>
+<details open>
   <summary> 
     Frameworks
   </summary>
@@ -52,14 +52,14 @@
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
 </details>
 
-<details>
+<details open>
   <summary> 
     Data streaming plateform
   </summary>
 <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white"/>
 </details>
 
-<details>
+<details open>
   <summary> 
     Databases
   </summary>
@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </details>
 
-<details>
+<details open>
   <summary> 
     Mobile
   </summary>
