@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=FaissalElfid&color=&color=yellow)
   
-  I am a final year software engineer who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
+  I am a IT Consultant who enjoys technological innovation. Welcome to my Github profile, I hope you like it! If you need additional information about my public projects, you can reach me through the section below. 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FaissalElfid&show_icons=true&theme=dracula)
 
